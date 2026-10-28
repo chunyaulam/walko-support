@@ -8,7 +8,7 @@ Welcome to the official support and privacy policy page for **Walko: Daily Steps
 
 If you have questions, feedback, feature requests, or encounter any issues with Walko, please reach out to us:
 
-- **Email Support:** [derekdevlam@hotmail.com](mailto:derekdevlam@hotmail.com) *(請更換為你的真實聯絡 Email)*
+- **Email Support:** [derekdevlam@hotmail.com](mailto:derekdevlam@hotmail.com)
 - **GitHub Issues:** [Open an Issue](https://github.com/chunyaulam/walko-support/issues)
 - **Developer:** PlanckBit
 
