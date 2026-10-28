@@ -10,7 +10,7 @@ If you have questions, feedback, feature requests, or encounter any issues with 
 
 - **Email Support:** [derekdevlam@hotmail.com](mailto:derekdevlam@hotmail.com)
 - **GitHub Issues:** [Open an Issue](https://github.com/chunyaulam/walko-support/issues)
-- **Developer:** PlanckBit
+- **Developer:** Chun Yau Lam
 
 We aim to respond to all inquiries within 48 business hours.
 
